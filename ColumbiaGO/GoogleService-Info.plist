@@ -7,7 +7,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Please allow access to take profile picture.</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBw3iC2ghuur72v0c6AOOCLEhZRlMNPIWQ</string>
+	<string>INSERT_API_KEY</string>
 	<key>GCM_SENDER_ID</key>
 	<string>960778453361</string>
 	<key>PLIST_VERSION</key>
